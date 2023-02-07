@@ -9,21 +9,13 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://sauanla.com/wp-content/uploads/2020/06/ico-logo-sauanla2-300x245.png">
-    <img src="https://sauanla.com/wp-content/uploads/2020/06/ico-logo-sauanla2-300x245.png" alt="Logo" width="80" height="80">
-  </a>
 
   <h3 align="center">React use Typescript CRUD simple app</h3>
 
   <p align="center">
     This is the React use Typescript CRUD simple app! 
     <br />
-    <br />
-    <a href="https://sal-react-demo-client.herokuapp.com/">View Demo</a>
-    ·
-    <a href="https://github.com/FullStack1106/React-TypeScript-CRUD/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/FullStack1106/React-TypeScript-CRUD/issues">Request Feature</a> 
+ 
   </p>
 </p>
 
