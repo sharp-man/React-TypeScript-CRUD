@@ -5,7 +5,6 @@
 [![MIT License][license-shield]][license-url] 
 
 
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
@@ -144,10 +143,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 
 
-<!-- CONTACT -->
-## Contact
-
-Yaroslav Danko - [@LinkedIN](https://www.linkedin.com/in/yaroslav-danko-922a53258/)
 
 
 
